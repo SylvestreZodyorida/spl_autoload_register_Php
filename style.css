@@ -1,0 +1,39 @@
+*{
+    padding: 20px;
+}
+.form_input{
+    height: 35px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 2px solid rgb(201, 201, 201);
+    width: 300px;
+}
+.form_input_text{
+    height: 80px;
+    margin-left:60px;
+    border: 2px solid rgb(201, 201, 201);
+    border-radius: 8px;
+    width: 300px;
+    margin-bottom: -30px;
+}
+.label{
+    font-size: 18px;    
+    box-shadow: 0px 05px 5px rgb(139, 139, 139) ;
+    color: blue;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.btn{
+    background-color: rgb(226, 117, 45);
+    border: 1px solid gainsboro;
+    font-size: 18px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(238, 106, 18);
+    border: 1px solid rgb(143, 143, 143);
+    font-size: 19px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
